@@ -1,0 +1,5 @@
+com\lab\training\model\Employee.class
+com\lab\training\model\EmployeeMapper.class
+com\lab\training\Training2Application.class
+com\lab\training\controller\EmployeeController.class
+com\lab\training\dao\EmployeeDAO.class
